@@ -10,9 +10,7 @@ class Person {
 	set getAge(age){
 		this.age = age;
 	}
-	get age() {
-    return this.age;
-  }
+	
 	
 }
 
